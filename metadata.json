@@ -1,0 +1,6 @@
+{
+  "name": "Solucionador Algebraico IA",
+  "description": "Una aplicación web para resolver ecuaciones algebraicas utilizando IA, diseñada para estudiantes universitarios. Proporciona soluciones y pasos, con una interfaz limpia y fácil de usar.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
